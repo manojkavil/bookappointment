@@ -3,26 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2026
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HappierLiving.Api", "HappierLiving.Api\HappierLiving.Api.csproj", "{80335201-9083-429A-B63E-F3CF24EA1C72}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HappierLiving.Api", "HappierLiving.Api\HappierLiving.Api.csproj", "{80335201-9083-429A-B63E-F3CF24EA1C72}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ClientApp", "ClientApp", "{B4FA0A12-461C-4857-AE76-DFE1FC7A15E1}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\.angular-cli.json = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\.angular-cli.json
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\.dockerignore = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\.dockerignore
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\.editorconfig = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\.editorconfig
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\.env.example = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\.env.example
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\.gitignore = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\.gitignore
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\Dockerfile = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\Dockerfile
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\exec.ps1 = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\exec.ps1
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\exec.sh = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\exec.sh
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\karma.conf.js = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\karma.conf.js
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\package-lock.json = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\package-lock.json
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\package.json = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\package.json
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\protractor.conf.js = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\protractor.conf.js
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\README.md = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\README.md
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\server.js = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\server.js
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\tsconfig.json = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\tsconfig.json
-		..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\tslint.json = ..\..\Practises\AngularAuth0Examples\auth0-angular-samples-master\auth0-angular-samples-master\03-Calling-an-API\tslint.json
+		TextFile1.txt = TextFile1.txt
 	EndProjectSection
 EndProject
 Global
